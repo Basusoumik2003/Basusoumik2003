@@ -107,19 +107,6 @@ A multilingual RAG-based assistant that helps users find and understand human re
 
 ---
 
-### Medical History Wallet
-
-A digital platform for organizing and securely managing personal medical history and health-related information.
-
-**Focus areas:**
-
-- Structured health records
-- Secure data management
-- Backend service design
-- Privacy-conscious application architecture
-
----
-
 ### Carbon Credit Token Platform
 
 A platform concept for representing and managing carbon credits through token-based infrastructure.
