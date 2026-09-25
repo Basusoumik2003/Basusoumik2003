@@ -3,7 +3,7 @@
 **Software Engineer at Learning Bee Education Pvt. Ltd.**  
 **Backend Engineer | Java | Spring Boot | Node.js | Python | FastAPI**
 
-I am a software engineer focused on designing reliable backend systems, scalable APIs, cloud-native infrastructure, and AI-powered applications. I enjoy building practical products that combine strong engineering fundamentals with modern technologies such as retrieval-augmented generation, vector databases, and distributed systems.
+I am a software engineer focused on designing reliable backend systems, scalable APIs, cloud-native infrastructure, and AI-powered applications. I enjoy building practical products that combine strong engineering with real-world impact.
 
 Currently, I am pursuing a **B.Tech in Computer Science and Engineering at Gandhi Engineering College (2022–2026)**.
 
@@ -122,17 +122,17 @@ A platform concept for representing and managing carbon credits through token-ba
 
 ## GitHub Stats
 
-![Soumik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true)
+![Soumik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basusoumik2003&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Basusoumik2003&layout=compact&theme=transparent&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Basusoumik2003&theme=transparent&hide_border=true)
 
 ---
 
 ## Contribution Activity
 
-![Soumik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true)
+![Soumik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Basusoumik2003&theme=github-compact&hide_border=true)
 
 ---
 
