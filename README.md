@@ -136,14 +136,15 @@ A platform concept for representing and managing carbon credits through token-ba
 
 ---
 
+---
+
 ## Contact
 
 I am open to discussing backend engineering, AI applications, cloud infrastructure, open source, and collaboration opportunities.
 
-- **LinkedIn:** [linkedin.com/in/basusoumik][(https://www.linkedin.com/in/basusoumik/])
-- **Portfolio:** [Your Portfolio](https://your-portfolio.example.com)
+- **LinkedIn:** [linkedin.com/in/basusoumik](https://www.linkedin.com/in/basusoumik/)
 - **Email:** [soumikbasu2003@gmail.com](mailto:soumikbasu2003@gmail.com)
-- **GitHub:** [@github.com/Basusoumik2003](https://github.com/Basusoumik2003)
+- **GitHub:** [github.com/Basusoumik2003](https://github.com/Basusoumik2003)
 
 ---
 
