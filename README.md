@@ -3,7 +3,7 @@
 **Software Engineer at Learning Bee Education Pvt. Ltd.**  
 **Backend Engineer | Java | Spring Boot | Node.js | Python | FastAPI**
 
-I am a software engineer focused on designing reliable backend systems, scalable APIs, cloud-native infrastructure, and AI-powered applications. I enjoy building practical products that combine strong engineering with real-world impact.
+I am a software engineer focused on designing reliable backend systems, scalable APIs, cloud-native infrastructure, and AI-powered applications. I enjoy building practical products that combine strong engineering with thoughtful user experiences.
 
 Currently, I am pursuing a **B.Tech in Computer Science and Engineering at Gandhi Engineering College (2022–2026)**.
 
@@ -80,6 +80,44 @@ I am currently strengthening my open-source profile through code contributions, 
 
 ## Featured Projects
 
+### [Tri-Bond](https://github.com/Basusoumik2003/Tri-Bond-)
+
+Tri-Bond is a collaboration platform designed to help teams organize their workspaces, documents, tasks, notifications, and real-time collaboration in one place.
+
+**Highlights:**
+
+- Workspace creation, membership, invitations, and role-based access control
+- Collaborative documents with version history, sharing permissions, comments, and mentions
+- Task management with assignees, statuses, priorities, and notifications
+- Search across accessible workspaces and documents
+- File attachments with configurable local and S3-compatible storage
+- Activity timelines, audit logs, trash, and permanent-delete workflows
+- Real-time presence, typing indicators, cursors, and live document updates through Socket.IO and Redis
+- Node.js, Express, PostgreSQL, Sequelize, Redis, Socket.IO, and AWS S3 architecture
+
+[View the Tri-Bond repository →](https://github.com/Basusoumik2003/Tri-Bond-)
+
+---
+
+### [Disha — Bharat Rail](https://github.com/Basusoumik2003/Disha)
+
+Disha is a modern Bharat Rail journey companion focused on making Indian railway travel more intuitive, informative, and engaging. The project combines live train tracking with an immersive map experience and contextual journey intelligence.
+
+**Highlights:**
+
+- Train search by number or name with suggestions and recent searches
+- Interactive live train tracking with MapLibre and animated route visualization
+- Journey status, station information, delay updates, ETA, and shareable journey links
+- Journey analytics including a health score, delay trends, speed, and elevation profiles
+- Weather information for the current station, next station, and destination
+- Along-route points of interest such as rivers, bridges, mountains, tunnels, and tourist attractions
+- Favorites, responsive mobile-first design, PWA/offline support, and accessible interfaces
+- React, TypeScript, Vite, Tailwind CSS, MapLibre GL, Recharts, Zustand, and Framer Motion
+
+[View the Disha repository →](https://github.com/Basusoumik2003/Disha)
+
+---
+
 ### InternzBee
 
 An AI-powered career and interview platform designed to help students and early-career professionals improve their job readiness.
@@ -133,8 +171,6 @@ A platform concept for representing and managing carbon credits through token-ba
 ## Contribution Activity
 
 ![Soumik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Basusoumik2003&theme=github-compact&hide_border=true)
-
----
 
 ---
 
