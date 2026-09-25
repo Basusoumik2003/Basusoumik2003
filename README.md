@@ -170,7 +170,11 @@ A platform concept for representing and managing carbon credits through token-ba
 
 ## Contribution Activity
 
-![Soumik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Basusoumik2003&theme=github-compact&hide_border=true)
+<p align="left">
+  <a href="https://github.com/Basusoumik2003">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Basusoumik2003&theme=github-compact&hide_border=true" alt="Soumik's GitHub Activity Graph" width="100%" />
+  </a>
+</p>
 
 ---
 
