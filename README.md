@@ -1,9 +1,9 @@
-# Soumik Basu
+[![ChatGPT Banner](https://chatgpt.com/s/m_6ac2524c31a48191808980d97dd0ffe5)](https://chatgpt.com/s/m_6ac2524c31a48191808980d97dd0ffe5)
 
 **Software Engineer at Learning Bee Education Pvt. Ltd.**  
 **Backend Engineer | Java | Spring Boot | Node.js | Python | FastAPI**
 
-I am a software engineer focused on designing reliable backend systems, scalable APIs, cloud-native infrastructure, and AI-powered applications. I enjoy building practical products that combine strong engineering with thoughtful user experiences.
+I am a software engineer focused on designing reliable backend systems, scalable APIs, cloud-native infrastructure, and AI-powered applications. I enjoy building practical products that combine str[...]
 
 Currently, I am pursuing a **B.Tech in Computer Science and Engineering at Gandhi Engineering College (2022–2026)**.
 
@@ -101,7 +101,7 @@ Tri-Bond is a collaboration platform designed to help teams organize their works
 
 ### [Disha — Bharat Rail](https://github.com/Basusoumik2003/Disha)
 
-Disha is a modern Bharat Rail journey companion focused on making Indian railway travel more intuitive, informative, and engaging. The project combines live train tracking with an immersive map experience and contextual journey intelligence.
+Disha is a modern Bharat Rail journey companion focused on making Indian railway travel more intuitive, informative, and engaging. The project combines live train tracking with an immersive map e[...]
 
 **Highlights:**
 
